@@ -1,2 +1,3 @@
 Lista de compras: leche y pan
 Agregar: manzanas y café
+Idea experimental: agregar chocolates
